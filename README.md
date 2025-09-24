@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphael Matthias Raberger</h1>
-<h3 align="center">A passionate mechatronics Engineer and full-stack developer</h3>
+<h3 align="center">A mechatronics Engineer and full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabergsel&label=Profile%20views&color=0e75b6&style=flat" alt="rabergsel" /> </p>
 
@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/rabergerraphael" target="blank"><img src="https://img.shields.io/twitter/follow/rabergerraphael?logo=twitter&style=for-the-badge" alt="rabergerraphael" /></a> </p>
 
-- 🔭 I’m currently working on **AI Tools**
+- 🔭 I’m currently working on **a VM**
 
-- 🌱 I’m currently learning **ASP.NET, Scala**
+- 🌱 I’m currently learning **Low-Level Computing, IT Security and Astro**
 
 - 👯 I’m looking to collaborate on [LichessNET](https://github.com/Rabergsel/LichessNET)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rabergsel?tab=repositories](https://github.com/Rabergsel?tab=repositories)
 
-- 💬 Ask me about **AI, Mechatronics, Discord Bots**
-
-- 📫 How to reach me **raphael.raberger@outlook.com**
+- 💬 Ask me about **Mechatronics, Discord Bots, IT**
 
 - ⚡ Fun fact **I LOVE CATS**
 

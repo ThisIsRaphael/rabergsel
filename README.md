@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabergsel" alt="rabergsel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rabergerraphael" target="blank"><img src="https://img.shields.io/twitter/follow/rabergerraphael?logo=twitter&style=for-the-badge" alt="rabergerraphael" /></a> </p>
-
 - 🔭 I’m currently working on **a VM**
 
 - 🌱 I’m currently learning **Low-Level Computing, IT Security and Astro**
